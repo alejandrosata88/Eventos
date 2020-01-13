@@ -1,0 +1,7 @@
+D:\BOT\Curso\Programa\CalcularEvento\CalcularEvento\bin\Debug\CalcularEvento.exe.config
+D:\BOT\Curso\Programa\CalcularEvento\CalcularEvento\bin\Debug\CalcularEvento.exe
+D:\BOT\Curso\Programa\CalcularEvento\CalcularEvento\bin\Debug\CalcularEvento.pdb
+D:\BOT\Curso\Programa\CalcularEvento\CalcularEvento\obj\Debug\CalcularEvento.csprojAssemblyReference.cache
+D:\BOT\Curso\Programa\CalcularEvento\CalcularEvento\obj\Debug\CalcularEvento.csproj.CoreCompileInputs.cache
+D:\BOT\Curso\Programa\CalcularEvento\CalcularEvento\obj\Debug\CalcularEvento.exe
+D:\BOT\Curso\Programa\CalcularEvento\CalcularEvento\obj\Debug\CalcularEvento.pdb
